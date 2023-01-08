@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.11
+Name: callonlow
+Formal-Name: Call On Low
+App-ID: com.aryamanee.callonlow
+Version: 0.0.1
+Home-page: https://aryamanee.github.io/callonlow
+Download-URL: https://aryamanee.github.io/callonlow
+Author: Aryamanee
+Author-email: aryamansawhney@hotmail.com
+Summary: An app that constantly polls dexcom's share servers and makes a call using ifttt if a certain threshold is met
